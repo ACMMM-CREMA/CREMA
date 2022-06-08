@@ -1,5 +1,5 @@
 # CREMA
-Code for Robust Learning with Adaptive Sample Credibility Modeling 
+Code for Learning from Noisy Labels with Coarse-to-Fine Sample Credibility Modeling 
 
 
 
